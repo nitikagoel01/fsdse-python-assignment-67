@@ -1,7 +1,4 @@
 import numpy as np
-
-
-def solution(t):
-    """
-    Enter code here
-    """
+def solution(tuple):
+    arr = np.array(tuple)
+    return arr
